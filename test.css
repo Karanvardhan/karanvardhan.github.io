@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background: #AAEF90;
+	align-content: center;
+}
+
+.fr{
+	float: right;
+	padding-left: 10px;
+}
+
+.fl{
+	float: left;
+	padding-right: 10px;
+}
+
+#gametext{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h1{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	text-align: center;
+}
+
+h1 span{
+	background-color: #02F220;
+}
